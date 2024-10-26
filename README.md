@@ -16,26 +16,26 @@ La aplicación se organiza en varias carpetas principales:
 
 ## Funcionalidades
 
-estión de Estado con Vuex:
+🔄Gestión de Estado con Vuex:
 Implementación de un contador en el estado global que puede incrementarse o decrementarse.
 Pruebas unitarias para verificar que el estado inicial del contador y su funcionalidad se gestionan correctamente.
 
-Navegación con Vue Router:
+🧭Navegación con Vue Router:
 Configuración de rutas para navegar entre diferentes vistas de la aplicación.
 Pruebas unitarias para asegurar la existencia de componentes de control de cada vista.
 
-Comunicación entre Componentes:
+🛠️Comunicación entre Componentes:
 Uso de dos componentes (Parent.vue y Child.vue) donde el componente hijo envía un mensaje al componente padre.
 Pruebas unitarias para verificar la funcionalidad de comunicación entre componentes.
 
-Despliegue con Firebase Hosting:
+🚀Despliegue con Firebase Hosting:
 Generación de un build de producción y despliegue en Firebase Hosting, permitiendo el acceso público a la aplicación.
 
 ## Requisitos Previos
 
-Node.js y npm instalados.
-Vue CLI instalado globalmente para crear y gestionar el proyecto Vue.
-Firebase CLI instalado para desplegar en Firebase Hosting.
+🖥️ Node.js y npm instalados.
+🌐Vue CLI instalado globalmente para crear y gestionar el proyecto Vue.
+🌍 Firebase CLI instalado para desplegar en Firebase Hosting.
 
 ## Tecnologías Utilizadas
 Vue.js 3: Framework de JavaScript para construir interfaces de usuario.
@@ -43,4 +43,6 @@ Vuex: Librería para la gestión del estado global en aplicaciones Vue.
 Vue Router: Sistema de enrutamiento para manejar las vistas y navegación en la aplicación.
 Jest: Framework de pruebas unitarias para JavaScript.
 Firebase Hosting: Servicio para alojar aplicaciones web de Firebase.
+
+
 
