@@ -31,7 +31,7 @@ Pruebas unitarias para verificar la funcionalidad de comunicación entre compone
 #Despliegue con Firebase Hosting:
 Generación de un build de producción y despliegue en Firebase Hosting, permitiendo el acceso público a la aplicación.
 
-## Requisitos Previos
+### Requisitos Previos
 
 Node.js y npm instalados.
 Vue CLI instalado globalmente para crear y gestionar el proyecto Vue.
